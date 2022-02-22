@@ -1,0 +1,11 @@
+{
+	"bullet": [
+		"All basics -- branching, pulling, pushing, merging, sending pull requests, comparing with diff",
+		"I use it daily and utilize shell aliases to issue almost all git commands with only a few keystrokes",
+		"Small commits for better traceability"
+	],
+	"name": "git",
+	"desc": "I am highly competent at using git to manage projects. I use it on every personal project and have gotten better over the years at using it efficiently.",
+	"img": "git",
+	"years": "3.5"
+}
