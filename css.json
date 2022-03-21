@@ -1,0 +1,11 @@
+{
+	"bullet": [
+		"Strong familiarity with advanced CSS techniques including modular CSS, CSS-in-JS, CSS Modules, advanced selection, transitions/animations, utility libraries, and more",
+		"Comfortable using any post or pre-processing tools such as SASS, SCSS, LESS, and PostCSS for advanced CSS libraries and build chains",
+		"High level of command of all basic CSS principles like layouts, efficient media queries, positioning, and many more"
+	],
+	"name": "CSS3",
+	"desc": "I have been using CSS3 since the day I started learning web development, and use it every day as my primary language for defining styles. I've used a large number of different libraries and tools and have tried many different to applying styles. Since I usually use a framework like React for managing my client side, I am quite familiar with approaches involving CSS-in-JS, but also with others like class-based utility libraries and CSS modules. If needed I can work with plain CSS although I usually use some kind of a tailored build chain.",
+	"img": "css",
+	"years": "4"
+}
