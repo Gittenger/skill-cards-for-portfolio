@@ -1,0 +1,11 @@
+{
+	"bullet": [
+		"Using EC2 instance to deploy full-stack web applications",
+		"Using VPS to set up a server to run REST API",
+		"Setting up basic Linux server, connecting via SSH and maintaining server and its apps"
+	],
+	"name": "AWS",
+	"desc": "I've primarily used the AWS EC2 technology, which is a virtual private server (VPS) that allows for virtualization of a server operating system. I've ran a couple of these with Linux Ubuntu Server, and used them to deploy full-stack web applications and REST API's to remote cloud-based servers.",
+	"img": "aws",
+	"years": "1"
+}
