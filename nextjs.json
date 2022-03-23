@@ -1,0 +1,12 @@
+{
+	"bullet": [
+		"Building and deploying serverless applications, managing API routing from front-end",
+		"Minimal configuration and using React vocabulary to have full-stack application with no server maintenance",
+		"Easily transferrable skillset to other serverless tools, like AWS Lambda, Google Cloud Functions",
+		"Writing and working with JAM stack applications"
+	],
+	"name": "NextJS",
+	"desc": "I have used NextJS a few times to familiarize myself with serverless architechture. I would consider myself reasonably acclimated to the workflow, and could easily set up and develop on projects using this structure.",
+	"img": "nextjs",
+	"years": "1"
+}
