@@ -6,6 +6,6 @@
 	],
 	"name": "MongoDB",
 	"desc": "MongoDB is a top choice for all my projects since I focus on web/JavaScript. I have considerable experience setting up databases for my various projects using the MongoDB cloud services, and have used local databases as well. Usually I use Mongoose in my NodeJS back-ends to interface with my databases.",
-	"img": "mongodb",
+	"img": "mongo",
 	"years": "3.5"
 }
