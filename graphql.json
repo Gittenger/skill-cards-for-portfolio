@@ -1,0 +1,11 @@
+{
+	"bullet": [
+		"Fetching and refetching queries and applying mutations to maximize efficiency when managing data on the front-end",
+		"GraphiQL IDE for testing queries in real time to greatly improve development time",
+		"Apollo client for easy interfacing with React"
+	],
+	"name": "GraphQL",
+	"desc": "I am acquainted with the general flow of GraphQL, minimizing data transformations by only querying what is needed and simplifying data management for front-end applications. I would usually use this with React by using the Apollo client and the accompanying useQuery hook",
+	"img": "graphql",
+	"years": "2"
+}
