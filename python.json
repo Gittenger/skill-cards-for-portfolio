@@ -1,0 +1,12 @@
+{
+	"bullet": [
+		"Read at least two textbooks explaining valuable and practical application of the Python language",
+		"Do all my algorithm training in Python since 2021",
+		"Using conda/miniconda to manage packages for numerous Python virtual environments",
+		"Basic understanding of using web-development frameworks like Flask and Django"
+	],
+	"name": "Python",
+	"desc": "I've used Python off and on mainly to practice my chops with other programming languages. It isn't my go-to for my personal projects but I'm fluent in reading and writing it. I've read multiple textbooks about using it and these days I do all my algorithm practicing with it. I've got a basic familiarity with its ecosystem, use-cases, and downloading and using modules from the standard library or third-party.",
+	"img": "python",
+	"years": "2.5"
+}
