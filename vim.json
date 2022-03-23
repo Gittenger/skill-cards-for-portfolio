@@ -1,0 +1,10 @@
+{
+	"bullet": [
+		"Highly efficient vim user with extensive custom configuration to improve my workflow on any machine",
+		"Use vim, neovim, and vim emulators daily, including for browsing"
+	],
+	"name": "Vim",
+	"desc": "Vim is one of my favorite tools in my kit. I use it every single day and honestly feel a little lost without it. I use emulators for it in VSCode, Chromium/Firefox, and anywhere I can. My configurations have been a work-in-progress for around two years and can be ported to any machine I'm using through a git repo.",
+	"img": "vim",
+	"years": "2"
+}
