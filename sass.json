@@ -1,0 +1,11 @@
+{
+	"bullet": [
+		"Modular project structuring making heavy use of Sass/SCSS functionality and component-driven design",
+		"Mixins and functions to easily create dynamic CSS",
+		"Using Sass to create simple and efficient media-query management for rapid development of responsive designs"
+	],
+	"name": "Sass",
+	"desc": "I usually use SCSS instead of CSS because of the added advantages provided by nesting, mixins, functions, and programming logic. I've used Sass/SCSS in quite a few projects and am more than familiar with using it to supercharge a project's CSS.",
+	"img": "sass",
+	"years": "4"
+}
