@@ -1,0 +1,11 @@
+{
+	"bullet": [
+		"Capable of configuring and maintaining MongoDB databases for use with small to medium sized web-apps",
+		"Skilled at using remote databases in cloud (using Atlas/Compass), or local databases set up on Linux servers",
+		"Built many templates and personal projects using MongoDB along with JavaScript based clients"
+	],
+	"name": "MongoDB",
+	"desc": "MongoDB is a top choice for all my projects since I focus on web/JavaScript. I have considerable experience setting up databases for my various projects using the MongoDB cloud services, and have used local databases as well. Usually I use Mongoose in my NodeJS back-ends to interface with my databases.",
+	"img": "mongodb",
+	"years": "3.5"
+}
