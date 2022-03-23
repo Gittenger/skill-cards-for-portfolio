@@ -1,0 +1,10 @@
+{
+	"bullet": [
+		"Can set up, use, and maintain the Redux (Flux) state management architecture for any project with ease",
+		"Very familiar with the inner workings of this system and could set it up from scratch if need be"
+	],
+	"name": "Redux",
+	"desc": "I've built at least one full project using Redux to manage my state, and have otherwise used the reducer pattern in multiple other projects. I am capable of setting up Redux or any similar tool for any project and am completely comfortable with the pattern of how this state management strategy works.",
+	"img": "redux",
+	"years": "2"
+}
