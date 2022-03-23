@@ -1,0 +1,11 @@
+{
+	"bullet": [
+		"Can connect to Firebase platform to offload back-end maintenence to third-party, freeing up resources for front-end development",
+		"Using Firebase Authentication to manage Oauth-like connections using accounts from Facebook, Google, and others",
+		"Storing user data for web-apps on zero-config platform to keep focus on front-end only"
+	],
+	"name": "Firebase",
+	"desc": "I have built at least one app using Firebase to manage back-end capabilities. I know its overall workflow, which, among others, is to use a REST API to connect to a zero-configuration cloud-based database platform, and having the ability to use existing accounts from various platforms to authenticate users with no need for new subscriptions.",
+	"img": "firebase",
+	"years": "2"
+}
