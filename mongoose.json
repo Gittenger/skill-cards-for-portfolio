@@ -1,0 +1,12 @@
+{
+	"bullet": [
+		"Familiar with basic uses -- Find, Create, Update, Delete -- for managing and building REST API's and CRUD apps",
+		"Using this tool to build complex data models for dynamic, advanced, and modern back-end applications",
+		"Using more advanced tools such as aggregation and virtual types to leverage the power of JavaScript in saving and retrieving a limitless variety of data",
+		"Creating and connecting middleware to build flexible API's to any necessary specification"
+	],
+	"name": "Mongoose",
+	"desc": "I've been using the Mongoose library for quite a while to interface with MongoDB. I am familiar with and have used most of its features, easily integrating all basic functions into my NodeJS applications to quickly scaffold out CRUD applications. I use this application to have a simple way to connect to my databases, remote or local, and use its API to communicate with my back-end apps to create my own API's",
+	"img": "mongoose",
+	"years": "3.5"
+}
