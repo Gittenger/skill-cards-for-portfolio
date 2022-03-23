@@ -1,0 +1,13 @@
+{
+	"bullet": [
+		"Highly proficient at using React for building interactive user interfaces",
+		"Very experienced with all basic concepts and many advanced ones -- hooks, refs, reducers, state management, and more",
+		"Am capable of integrating React projects with back-ends easily",
+		"Built numerous templates/starter kits for bootstrapping my React projects",
+		"Used with many different tool chains -- CSS-in-JS, Tailwind, Bootstrap, Sass modules, from-scratch webpack configuration"
+	],
+	"name": "ReactJS",
+	"desc": "I've used React almost as long as I've been developing. I jumped right into the MERN stack and never looked back. I've got experience with all of its ins and outs, and have used it to create the client-side of most of my apps. I've used about every styling method you can think of using with React, and these days I always configure my webpack from scratch for my projects. I have created many of my own React templates and have quite a few components and hooks I've added to my own personal, reusable library.",
+	"img": "react",
+	"years": "4"
+}
