@@ -1,0 +1,12 @@
+{
+	"bullet": [
+		"Easily building Static Site Generation (SSG) and Server-side Rendering (SSR) websites",
+		"Deploying to CDN for very cheap due to static rendering",
+		"Building static websites with powerful dynamic tools -- React, GraphQL",
+		"HelmetJS for security and SEO baked in"
+	],
+	"name": "Gatsby",
+	"desc": "I've dabbled in Gatsby and am accustomed to its offerings. I know how to use its suite of developer tools which make it a breeze to set up headless sites and to generate static sites while leveraging the power of React and GraphQL",
+	"img": "gatsby",
+	"years": "2.5"
+}
