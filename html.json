@@ -1,0 +1,13 @@
+{
+	"bullet": [
+		"Use HTML daily, anywhere from a simple single page document, to complex templating via client-side frameworks",
+		"Know HTML conventions including accessibility standards",
+		"Advanced topics like web components and shadow DOM",
+		"Using alongside JavaScript to utilize all modern web API's",
+		"Tables, automated email templates, and using server-rendered HTML from server-side templating tools"
+	],
+	"name": "HTML5",
+	"desc": "I have been using HTML the entirety of my development journey, and am proficient in constructing well-formed, valid HTML documents. I know most conventions of good HTML, and am competent at meeting accessibility standards of the modern web. I am familiar with advanced concepts such as shadow DOM and custom web components. Finally, I'm also experienced at using tables where necessary in limited environments, like in automated email templates.",
+	"img": "html",
+	"years": "4"
+}
